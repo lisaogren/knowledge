@@ -11,6 +11,7 @@ This is a list of all the open-source software I should consider giving a try. I
 * [JavaScript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image) - load images provided as File or Blob objects or via URL
 * [format-message](https://github.com/format-message/format-message) - Internationalization Made Easy
 * [nock](https://github.com/node-nock/nock) - HTTP mocking and expectations library
+* [quill](https://github.com/quilljs/quill) - Your powerful, rich text editor
 
 ### Tools
 
@@ -19,3 +20,4 @@ This is a list of all the open-source software I should consider giving a try. I
 * [release-it](https://github.com/webpro/release-it) - Interactive release tool for Git repos.
 * [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 * [shrinkpack](https://github.com/JamieMason/shrinkpack) - Fast, resilient, reproducible builds with npm install.
+* [Color Scheme Designer](http://bellouguet.fr/Couleurs/Essai%20sur%20page%20Web/index.html)
